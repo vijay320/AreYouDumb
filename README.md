@@ -1,1 +1,3 @@
 # AreYouDumb
+
+This project created in NetBeansIDE......
